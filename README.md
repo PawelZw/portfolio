@@ -24,6 +24,8 @@ My name is Paweł Zwolicki. I graduated from marine geology at the University of
   - Creating diagrams and decision tables
   - Java
   - Automatic tests
+# Certificates
+  - ISTQB - No. 98376
 # Courses
   - udemy.com Cypress od podstaw - Automatyzacja testów
   - udemy.com Podstawy manualnego testowania oprogramowania
