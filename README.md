@@ -60,6 +60,9 @@ My name is Paweł Zwolicki. I graduated from marine geology at the University of
 
 # My projects
 - [woskandgo.com](www.woskandgo.com) - website created for beauty studio witch i run with my partner.
+- [centrum nautica tests](https://github.com/PawelZw/cypress-automatic-tests) - Automated tests of the www.centrumnautica.pl website using the cypress framework.
+- [movie-catalog-spring-boot](https://github.com/PawelZw/movie-catalog-spring-boot) - An application that allows you to add records to the database, as well as read, update and delete. A MySQL relational database running in a Docker container was used. We communicate with the database using an application made in Java using the Springboot framework
+- [dream-boat-finder](https://github.com/PawelZw/dream-boat-finder) - The program searches for specific boat models based on the given parameters. Java
   
   
 
