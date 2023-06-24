@@ -57,4 +57,10 @@ My name is Paweł Zwolicki. I graduated from marine geology at the University of
   - [Bugs reported for Primetric application](https://drive.google.com/file/d/1irkl1KFosez9CDteDsVOoMi9DKX3JyEU/view?usp=share_link)
   - [Bugs reported for mobile application LeanCode Chat](https://drive.google.com/file/d/1nOCaLESRqSBSvp7KtqO1H8Jv-swJFK9a/view?usp=share_link)
   - [Bugs reported for React TODO application](https://drive.google.com/file/d/1VVDDd_j13OK5yEMmhOQb6c8hGst4mRuw/view?usp=sharing)
+
+# My projects
+- [woskandgo.com](www.woskandgo.com) - website created for beauty studio witch i run with my partner.
+  
+  
+
       
